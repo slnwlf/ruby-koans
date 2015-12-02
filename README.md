@@ -65,7 +65,7 @@ Reference <a href="http://ploos.io/ruby-koans-companion-part-10-about_methods-rb
 
 ## Exercises
 
-Base Exercises:
+##### Base Exercises:
 
 `cd` into your new `koans` directory and run through the following exercises using `ruby <file_name.rb>`.
 
@@ -76,7 +76,7 @@ Base Exercises:
 - About Strings - `about_strings.rb`
 - About Methods - `about_methods.rb` (through `method_without_explicit_return`)
 
-Stretch Exercises:
+##### Stretch Exercises:
 
 - About Hashes - `about_hashes.rb`
 - About Blocks - `about_blocks.rb`
