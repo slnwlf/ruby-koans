@@ -2,7 +2,11 @@
 
 ## About Ruby Koans
 
-Go to the Ruby Koans <a href="http://rubykoans.com/" target="_blank">website</a> and click the link to download the koans. Open the zip file and save it in your `dev` directory. `cd` into the `koans` directory and run `ls`. Wow, that's a lot of files!
+### Getting started
+
+Fork and clone this repo into your `develop` directory.
+
+Go to the Ruby Koans <a href="http://rubykoans.com/" target="_blank">website</a> and click the link to download the koans. Open the zip file and save it in your copy of this directory. `cd` into the `koans` directory and run `ls`. Wow, that's a lot of files!
 
 Each file is a self-contained exercise that will teach you a bit about Ruby, using test driven development. Essentially you will be given code that has something wrong with it, as well as instructions about what needs to be fixed. Then you make the necessary changes for the tests to pass.
 
@@ -86,4 +90,6 @@ Stretch Exercises:
 - About Variable Scope - `about_variable_scope.rb`
 - About Iteration - `about_iteration.rb`
 
-When you have completed the exercises create a file called `solutions.rb`.  Add all of your solutions to this file and place a comment above each solution referencing the file the solution was originally in.
+### Submission
+
+Make a pull request when you have completed all of the exercises.
